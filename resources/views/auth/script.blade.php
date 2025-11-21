@@ -1,0 +1,90 @@
+  <script src="{{ asset('assets/js/jquery-3.6.0.min.js') }}"></script>
+  <script src="{{asset('assets/js/plugins/sweetalert2.all.min.js')}}"></script>
+  <script src="{{ asset('assets/js/plugins/popper.min.js') }}"></script>
+  <script src="{{ asset('assets/js/plugins/simplebar.min.js') }}"></script>
+  <script src="{{ asset('assets/js/plugins/bootstrap.min.js') }}"></script>
+  <script src="{{ asset('assets/js/fonts/custom-font.js') }}"></script>
+  <script src="{{ asset('assets/js/config.js') }}"></script>
+  <script src="{{ asset('assets/js/pcoded.js') }}"></script>
+  <script src="{{ asset('assets/js/plugins/feather.min.js')}}"></script>
+  
+  
+  <!-- Theme Mode Select Code -->
+   
+  <!-- <div class="pct-c-btn">
+    <a href="#" data-bs-toggle="offcanvas" data-bs-target="#offcanvas_pc_layout">
+      <svg class="pc-icon">
+        <use xlink:href="#custom-setting-2"></use>
+      </svg>
+    </a>
+  </div>
+  <div class="offcanvas border-0 pct-offcanvas offcanvas-end" tabindex="-1" id="offcanvas_pc_layout">
+    <div class="offcanvas-header">
+      <h5 class="offcanvas-title">Settings</h5>
+      <button type="button" class="btn btn-icon btn-link-danger" data-bs-dismiss="offcanvas" aria-label="Close"
+        ><i class="ti ti-x"></i
+      ></button>
+    </div>
+    <div class="pct-body" style="height: calc(100% - 85px)">
+      <div class="offcanvas-body py-0">
+        <ul class="list-group list-group-flush">
+          <li class="list-group-item">
+            <div class="pc-dark">
+              <h6 class="mb-1">Theme Mode</h6>
+              <p class="text-muted text-sm">Choose light or dark mode or Auto</p>
+              <div class="row theme-layout">
+                <div class="col-4">
+                  <div class="d-grid">
+                    <button class="preset-btn btn active" data-value="true" onclick="layout_change('light');">
+                      <svg class="pc-icon text-warning">
+                        <use xlink:href="#custom-sun-1"></use>
+                      </svg>
+                    </button>
+                  </div>
+                </div>
+                <div class="col-4">
+                  <div class="d-grid">
+                    <button class="preset-btn btn" data-value="false" onclick="layout_change('dark');">
+                      <svg class="pc-icon">
+                        <use xlink:href="#custom-moon"></use>
+                      </svg>
+                    </button>
+                  </div>
+                </div>
+                <div class="col-4">
+                  <div class="d-grid">
+                    <button class="preset-btn btn" data-value="default" onclick="layout_change_default();">
+                      <svg class="pc-icon">
+                        <use xlink:href="#custom-setting-2"></use>
+                      </svg>
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+          <li class="list-group-item d-none">
+            <h6 class="mb-1">Custom Theme</h6>
+            <p class="text-muted text-sm">Choose your Primary color</p>
+            <div class="theme-color preset-color">
+              <a href="#!" class="active" data-value="preset-1"><i class="ti ti-check"></i></a>
+              <a href="#!" data-value="preset-2"><i class="ti ti-check"></i></a>
+              <a href="#!" data-value="preset-3"><i class="ti ti-check"></i></a>
+              <a href="#!" data-value="preset-4"><i class="ti ti-check"></i></a>
+              <a href="#!" data-value="preset-5"><i class="ti ti-check"></i></a>
+              <a href="#!" data-value="preset-6"><i class="ti ti-check"></i></a>
+              <a href="#!" data-value="preset-7"><i class="ti ti-check"></i></a>
+              <a href="#!" data-value="preset-8"><i class="ti ti-check"></i></a>
+              <a href="#!" data-value="preset-9"><i class="ti ti-check"></i></a>
+              <a href="#!" data-value="preset-10"><i class="ti ti-check"></i></a>
+            </div>
+          </li>
+          <li class="list-group-item">
+            <div class="d-grid">
+              <button class="btn btn-light-danger" id="layoutreset">Reset Layout</button>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div> -->

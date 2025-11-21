@@ -1,0 +1,107 @@
+.dataTable-selector,
+.dataTable-input  {
+    padding: 0.4rem 0.75rem !important;
+}
+
+.dataTable-bottom {
+    padding-top: 2px !important;
+    padding-bottom: 150px;
+}
+
+.dropdown-action-1 {
+    right: -130% !important;
+    left: auto !important;
+    margin-top: 10px !important;
+    box-shadow: 0 4px 14px 0 rgb(62 57 107 / 2%);
+    padding: 8px;
+    background-color: rgb(248 249 250);
+    border: 1px solid #80808024;
+    z-index: 9999999 !important;
+}
+
+
+.card-row-1 {
+    margin-bottom: 12rem !important;
+}
+
+
+.dropdown-action-1 li a svg {
+    width:16px !important;
+    height: 16px !important;
+}
+
+.cmb-5 {
+    margin-bottom: 5rem !important;
+}
+
+.client-table td {
+    padding: 0.90rem 0.75rem !important;
+}
+
+.client-table tr td:first-child,
+.client-table tr th:first-child  {
+    padding-left: 25px !important;
+}
+
+.date-range-end {
+    border-top-right-radius: 8px !important;
+    border-bottom-right-radius: 8px !important;
+}
+    
+
+.client-user-login {
+    background: #e8e8e8;
+    padding: 20px;
+    border-radius: 8px;
+    margin-top: 5px;
+}
+
+.billing-cardbody {
+    padding-top: 5px !important;
+}
+
+.is-focused:focus {
+    box-shadow: none !important;
+    outline: none !important;
+}
+
+.alert-card {
+    border: 1px solid grey ;
+}
+
+.del-btn {
+    cursor: pointer;
+}
+
+.w100 {
+    width:100% !important;
+}
+
+.variableselact {
+    padding: 5px 20px 5px 10px;
+}
+
+.variablebtn {
+    border-radius: 5px;
+    margin-top: -5px;
+    padding: 3px 10px;
+}
+
+.msg-letters {
+    color: black !important; /* Default color */
+}
+
+.msg-letters.red {
+    color: red !important; /* Color when character count exceeds 160 */
+}
+
+.bulkCount {
+    width:25%;
+    border-radius: 10px 0px 0px 10px;
+    text-align: center;
+}
+
+.bulkSelect {
+    width:75%;
+    border-radius: 0px 10px 10px 0px;
+}

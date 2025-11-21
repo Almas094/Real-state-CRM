@@ -1,0 +1,87 @@
+.bd-1 {
+    border-color: #bec8d0;
+    border-radius: 8px;
+}
+
+.bd-left-none {
+    border-left: none;
+}
+
+.h-250 {
+    width:250px !important;
+}
+
+.client-sidebar .card.pc-user-card .card-body {
+    padding: 15px;
+}
+
+.client-logo {
+    width: 100%;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+
+.search-control:focus {
+    border-color: #bec8d0 !important;
+    box-shadow: none !important;
+}
+
+.nt-btn {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.vh80 {
+ max-height: 80vh !important;
+}
+
+.sidebar-footer {
+    background-color: #e3e1e7;
+    border-radius: 10px;
+}
+
+.text-right {
+    text-align: right !important;
+}
+
+.super-footer {
+    margin-top: 0px !important;
+    margin-left: 10px !important;
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+    left: 0;
+    background-color: #f8f9fa;
+    padding-top: 0px !important;
+    padding-bottom: 5px !important;
+
+}
+
+.super-footer .footer-wrapper {
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
+.pc-container .page-header + .row { 
+    padding-top:10px;
+}
+
+.page-header {
+    padding-left: 15px;
+}
+
+.btn-i-wh15px svg {
+    width:15px !important;
+    height:15px !important;
+}
+
+.cursor-p {
+    cursor: pointer;
+}
+
+.form-success {
+    width: 350px !important;
+    position: fixed !important;
+    top: 95px !important;
+    right: 40px !important;
+}

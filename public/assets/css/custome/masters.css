@@ -1,0 +1,29 @@
+.table-header {
+    padding-top: 15px !important;
+    padding-bottom: 15px !important;
+}
+
+.table-header .row .text-right {
+    text-align: right;
+}
+
+.wh-30 {
+    width:30px !important;
+    height: 30px !important;
+}
+
+.active-btn-2 {
+    padding: 3px 20px !important;
+}
+
+.inactive-btn-2 {
+    padding: 3px 20px !important;
+}
+
+.tooltip {
+    margin-bottom: -90px !important;
+}
+
+.form-switch .form-check-input {
+    margin-left: 0px;
+}

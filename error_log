@@ -1,0 +1,20 @@
+[29-Oct-2025 06:36:34 UTC] PHP Warning:  require(/home/pokq8ydq09to/app.abstractcrm.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pokq8ydq09to/app.abstractcrm.com/index.php on line 34
+[29-Oct-2025 06:36:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pokq8ydq09to/app.abstractcrm.com/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pokq8ydq09to/app.abstractcrm.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/pokq8ydq09to/app.abstractcrm.com/index.php on line 34
+[29-Oct-2025 06:36:38 UTC] PHP Warning:  require(/home/pokq8ydq09to/app.abstractcrm.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pokq8ydq09to/app.abstractcrm.com/index.php on line 34
+[29-Oct-2025 06:36:38 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pokq8ydq09to/app.abstractcrm.com/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pokq8ydq09to/app.abstractcrm.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/pokq8ydq09to/app.abstractcrm.com/index.php on line 34
+[29-Oct-2025 06:36:50 UTC] PHP Warning:  require(/home/pokq8ydq09to/app.abstractcrm.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pokq8ydq09to/app.abstractcrm.com/index.php on line 34
+[29-Oct-2025 06:36:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pokq8ydq09to/app.abstractcrm.com/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pokq8ydq09to/app.abstractcrm.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/pokq8ydq09to/app.abstractcrm.com/index.php on line 34
+[29-Oct-2025 06:40:40 UTC] PHP Warning:  require(/home/pokq8ydq09to/app.abstractcrm.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pokq8ydq09to/app.abstractcrm.com/index.php on line 34
+[29-Oct-2025 06:40:40 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pokq8ydq09to/app.abstractcrm.com/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pokq8ydq09to/app.abstractcrm.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/pokq8ydq09to/app.abstractcrm.com/index.php on line 34
